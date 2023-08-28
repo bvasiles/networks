@@ -1,0 +1,6 @@
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: "Network Analysis"
+description: "The Hidden Structures behind the Webs We Weave<br>17-213 / 17-668 | Fall 2023"
