@@ -34,7 +34,7 @@ Below is a preliminary schedule for Fall 2023. The schedule is subject to change
 
 | Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
-Tue, Aug 29 | [Introduction](pages/aug29-intro.md) | <!-- [slides](slides/01-intro.pdf) • [video]() -->
+Tue, Aug 29 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
 Thu, Aug 31 | Foundations, data, and software | 
 Tue, Sep 5 | Foundations, data, and software (cont'd) | 
 Thu, Sep 7 | What's in a tie? | 
