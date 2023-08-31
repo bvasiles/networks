@@ -35,8 +35,8 @@ Below is a preliminary schedule for Fall 2023. The schedule is subject to change
 | Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
 Tue, Aug 29 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
-Thu, Aug 31 | Foundations, data, and software | 
-Tue, Sep 5 | Foundations, data, and software (cont'd) | 
+Thu, Aug 31 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf)
+Tue, Sep 5 | Foundations, data, and software | 
 Thu, Sep 7 | What's in a tie? | 
 Tue, Sep 12 | Dyads, relationships, and their characteristics | 
 Thu, Sep 14 | Centrality and power | 
