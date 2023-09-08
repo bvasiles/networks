@@ -37,7 +37,7 @@ Below is a preliminary schedule for Fall 2023. The schedule is subject to change
 Tue, Aug 29 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
 Thu, Aug 31 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf)
 Tue, Sep 5 | Random networks | [slides](slides/w2_1_random_networks.pdf)
-Thu, Sep 7 | What's in a tie? | 
+Thu, Sep 7 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf)
 Tue, Sep 12 | Dyads, relationships, and their characteristics | 
 Thu, Sep 14 | Centrality and power | 
 Tue, Sep 19 | Centrality and power (cont'd) | 
