@@ -39,8 +39,8 @@ Thu, Aug 31 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf)
 Tue, Sep 5 | Random networks | [slides](slides/w2_1_random_networks.pdf)
 Thu, Sep 7 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf)
 Tue, Sep 12 | Graph signatures and dynamics of social ties | [slides](slides/w3_1_graph_signatures_social_ties.pdf) 
-Thu, Sep 14 | Centrality and power | 
-Tue, Sep 19 | Centrality and power (cont'd) | 
+Thu, Sep 14 | Homophily and degree correlation (part 1) | [slides](slides/w3_2_homophily_and_degree_correlation.pdf) 
+Tue, Sep 19 | Centrality and power | 
 Thu, Sep 21 | Triads and clustering |
 Tue, Sep 26 | Social groups | 
 Thu, Sep 28 | Roles and positions | 
