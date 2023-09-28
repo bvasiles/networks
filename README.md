@@ -42,8 +42,8 @@ Tue, Sep 12 | Graph signatures and dynamics of social ties | [slides](slides/w3_
 Thu, Sep 14 | Homophily and degree correlation (part 1) | [slides](slides/w3_2_homophily_and_degree_correlation.pdf) 
 Tue, Sep 19 | Homophily and degree correlation (part 2) | [slides](slides/w4_1_homophily_and_degree_correlation_pt2.pdf)
 Thu, Sep 21 | Centrality and power | [slides](slides/w4_2_power_and_centrality_in_social_networks.pdf)
-Tue, Sep 26 | Social groups | 
-Thu, Sep 28 | Roles and positions | 
+Tue, Sep 26 | Centrality and power in social exchange | [slides](slides/w5_1_power_and_centrality_in_exchange.pdf)
+Thu, Sep 28 | Social groups | 
 Tue, Oct 3 | Connections through affiliation | 
 Thu, Oct 5 | Effects of network diversity | 
 Tue, Oct 10 | Effects of network closure | 
