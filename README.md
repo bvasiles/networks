@@ -45,8 +45,8 @@ Thu, Sep 21 | Centrality and power | [slides](slides/w4_2_power_and_centrality_i
 Tue, Sep 26 | Centrality and power in social exchange | [slides](slides/w5_1_power_and_centrality_in_exchange.pdf)
 Thu, Sep 28 | Detecting communities | [slides](slides/w5_2_communities.pdf)
 Tue, Oct 3 | Structural equivalence | [slides](slides/w6_1_structural_equivalence.pdf) 
-Thu, Oct 5 | Connections through affiliation | 
-Tue, Oct 10 | Effects of network closure | 
+Thu, Oct 5 | Connections through affiliation | [slides](slides/w6_2_affiliations_and_overlapping_subgroups.pdf)
+Tue, Oct 10 | Exemplary studies | [slides](slides/w7_1_exemplary_studies.pdf)
 Thu, Oct 12 | Midterm exam | 
 ~~Tue, Oct 17~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 19~~ | ~~Fall break, no class~~ |
