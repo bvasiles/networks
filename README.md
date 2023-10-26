@@ -50,7 +50,7 @@ Tue, Oct 10 | Exemplary studies | [slides](slides/w7_1_exemplary_studies.pdf)
 Thu, Oct 12 | Midterm exam | 
 ~~Tue, Oct 17~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 19~~ | ~~Fall break, no class~~ |
-Tue, Oct 24 | Ethics in social network research | 
+Tue, Oct 24 | Scale-free networks | [slides](slides/w8_1_scale_free_networks.pdf)
 Thu, Oct 26 | Network connectivity | 
 Tue, Oct 31 | Evolution and biological constraints | 
 Thu, Nov 2 | Shocks and uncertainty |
