@@ -51,7 +51,7 @@ Thu, Oct 12 | Midterm exam |
 ~~Tue, Oct 17~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 19~~ | ~~Fall break, no class~~ |
 Tue, Oct 24 | Scale-free networks | [slides](slides/w8_1_scale_free_networks.pdf)
-Thu, Oct 26 | Network connectivity | 
+Thu, Oct 26 | Network inequality | [slides](slides/w8_2_network_inequality.pdf)
 Tue, Oct 31 | Evolution and biological constraints | 
 Thu, Nov 2 | Shocks and uncertainty |
 ~~Tue, Nov 7~~ | ~~Democracy Day, no class~~ |
