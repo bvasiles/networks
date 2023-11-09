@@ -53,7 +53,7 @@ Thu, Oct 12 | Midterm exam |
 Tue, Oct 24 | Scale-free networks | [slides](slides/w8_1_scale_free_networks.pdf)
 Thu, Oct 26 | Network inequality | [slides](slides/w8_2_network_inequality.pdf)
 Tue, Oct 31 | Small world | [slides](slides/w9_1_small_world_networks.pdf)
-Thu, Nov 2 | Shocks and uncertainty |
+Thu, Nov 2 | Bridging social capital | [slides](slides/w9_2_bridging_social_capital.pdf)
 ~~Tue, Nov 7~~ | ~~Democracy Day, no class~~ |
 Thu, Nov 9 | Structure of online communities |
 Tue, Nov 14 | Information diffusion |
