@@ -58,9 +58,9 @@ Thu, Nov 2 | Bridging social capital | [slides](slides/w9_2_bridging_social_capi
 Thu, Nov 9 | Bonding social capital | [slides](slides/w10_2_bonding_social_capital.pdf)
 Tue, Nov 14 | Network analysis of Open Source Software | [slides](slides/w11_1_open_source.pdf)
 Thu, Nov 16 | Visualizing network data | [slides](slides/w11_2_network_visualization.pdf)
-Tue, Nov 21 | Network mechanisms of polarization |
+Tue, Nov 21 | Hands-on network visualization workshop | no slides
 ~~Thu, Nov 23~~ | ~~Thanksgiving, no class~~ |
-Tue, Nov 28 | Networks of economic exchange |
-Thu, Nov 30 | Collaboration and knowledge production |
-Tue, Dec 5 | Networks and health |
-Thu, Dec 7 | Statistical frameworks for testing network mechanisms |
+Tue, Nov 28 | Ethical issues | [slides](slides/w13_1_ethics_in_social_network_research.pdf)
+Thu, Nov 30 | Guest lecture:  |
+Tue, Dec 5 | Diffusion and contagion | [slides](slides/w14_1_Diffusion_Contagion.pdf)
+Thu, Dec 7 | Student project presentations |
