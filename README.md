@@ -1,4 +1,4 @@
-![My image](../assets/images/wormholes.jpeg)
+![My image](assets/images/wormholes.jpeg)
 
 {:.image-caption}
 Network wormholes in Singapore’s Twitter network, from [Park et al, Science 2018](https://www.science.org/doi/full/10.1126/science.aau9735).
