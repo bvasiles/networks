@@ -1,3 +1,9 @@
+![My image](../assets/images/wormholes.jpeg)
+
+{:.image-caption}
+Network wormholes in Singapore’s Twitter network, from [Park et al, Science 2018](https://www.science.org/doi/full/10.1126/science.aau9735).
+"Each dot represents an individual, and each edge represents a bidirected @mention. Nodes and edges are colored according to membership in distinct network communities. A sample of network wormholes (with range six or above and above-median tie strength) is shown in yellow. The inset highlights a single wormhole of range eight, i.e., the second-shortest path between the yellow nodes requires traversing eight intermediary ties (blue edges). The sizes of the nodes in the inset are proportional to the number of network neighbors."
+
 ### Overview
 
 Why does Linux and the broader open-source ecosystem thrive despite weak economic incentives? Why do complex software systems sometimes fail despite being well-engineered? What makes a social media recommendation algorithm so effective and so toxic at the same time? Why do YouTube mega-influencers with tens of millions of subscribers exist, yet each of us can only recognize a handful at best? How do echo chambers and polarization emerge in social media platforms? How can you land your dream jobs? How does mass adoption of technological innovations happen? Underlying these seemingly unrelated questions is the powerful influence of social networks, the collection of on- and offline connections and dependencies that people and systems form with one another, often unknowingly. 
