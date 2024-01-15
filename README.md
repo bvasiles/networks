@@ -61,6 +61,6 @@ Thu, Nov 16 | Visualizing network data | [slides](slides/w11_2_network_visualiza
 Tue, Nov 21 | Hands-on network visualization workshop | no slides
 ~~Thu, Nov 23~~ | ~~Thanksgiving, no class~~ |
 Tue, Nov 28 | Ethical issues | [slides](slides/w13_1_ethics_in_social_network_research.pdf)
-Thu, Nov 30 | Guest lecture:  |
+Thu, Nov 30 | Guest lecture: Clio Andris | [slides](slides/w13_2_gis_networks.pdf)
 Tue, Dec 5 | Diffusion and contagion | [slides](slides/w14_1_Diffusion_Contagion.pdf)
 Thu, Dec 7 | Student project presentations |
