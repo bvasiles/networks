@@ -1,4 +1,4 @@
-:warning::warning::warning:**This is the website for the Fall 2023 offering. It will be updated for Fall 2024.**:warning::warning::warning:
+<span style="color:red">**Note: This is the website for the Fall 2023 offering. It will be updated for Fall 2024.**</span>
 
 ![My image](assets/images/wormholes.jpeg)
 
