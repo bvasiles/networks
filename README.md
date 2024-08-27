@@ -26,7 +26,7 @@ After completing this course, you will be able to:
 - Teaching assistant: [Meryl Ye](https://merylye.github.io)
 
 ### Course Syllabus and Policies
-The [syllabus]([syllabus.md](https://docs.google.com/document/d/1tpbfIJF3qw3Js54rgTto5x5g7cVg7NxWcHtPI4gELHc/edit?usp=sharing)) covers course overview and objectives, evaluation, 
+The [syllabus](https://docs.google.com/document/d/1tpbfIJF3qw3Js54rgTto5x5g7cVg7NxWcHtPI4gELHc/edit?usp=sharing) covers course overview and objectives, evaluation, 
 time management, late work policy, and collaboration policy.
 
 <!-- ### Learning Goals
