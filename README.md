@@ -1,4 +1,4 @@
-<span style="color:red">**Note: This is the website for the Fall 2023 offering. It will be updated for Fall 2024.**</span>
+<!-- <span style="color:red">**Note: This is the website for the Fall 2023 offering. It will be updated for Fall 2024.**</span> -->
 
 ![My image](assets/images/wormholes.jpeg)
 
@@ -20,13 +20,13 @@ After completing this course, you will be able to:
 
 ### Coordinates
 - Lectures: Tuesdays & Thursdays 2:00-3:20pm, Eastern Time, in [PH A18B](https://map.concept3d.com/?id=192#!ct/19362,7382,1568,0,7308?m/72750)
-- Assignments, private announcements, reading materials: [Canvas](https://canvas.cmu.edu/courses/)
+- Assignments, private announcements, reading materials: [Canvas](https://canvas.cmu.edu/courses/43625)
 - Slides: this website
 - Instructors: [Patrick Park](https://patpark.org) & [Bogdan Vasilescu](https://bvasiles.github.io)
-- Teaching assistant: [Hongbo Fang](https://www.cmu.edu/news/stories/archives/2022/june/open-source-software.html)
+- Teaching assistant: [Meryl Ye](https://merylye.github.io)
 
 ### Course Syllabus and Policies
-The [syllabus](syllabus.md) covers course overview and objectives, evaluation, 
+The [syllabus]([syllabus.md](https://docs.google.com/document/d/1tpbfIJF3qw3Js54rgTto5x5g7cVg7NxWcHtPI4gELHc/edit?usp=sharing)) covers course overview and objectives, evaluation, 
 time management, late work policy, and collaboration policy.
 
 <!-- ### Learning Goals
@@ -38,37 +38,38 @@ written project reports, and in-class presentations. -->
 
 ### Schedule
 
-Below is a preliminary schedule for Fall 2023. The schedule is subject to change and will be updated as the semester progresses. 
+Below is a preliminary schedule for Fall 2024. The schedule is subject to change and will be updated as the semester progresses. For previous schedules, see [Fall 2023](fall2023/).
 
 | Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
-Tue, Aug 29 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
-Thu, Aug 31 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf)
-Tue, Sep 5 | Random networks | [slides](slides/w2_1_random_networks.pdf)
-Thu, Sep 7 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf)
-Tue, Sep 12 | Graph signatures and dynamics of social ties | [slides](slides/w3_1_graph_signatures_social_ties.pdf) 
-Thu, Sep 14 | Homophily and degree correlation (part 1) | [slides](slides/w3_2_homophily_and_degree_correlation.pdf) 
-Tue, Sep 19 | Homophily and degree correlation (part 2) | [slides](slides/w4_1_homophily_and_degree_correlation_pt2.pdf)
-Thu, Sep 21 | Centrality and power | [slides](slides/w4_2_power_and_centrality_in_social_networks.pdf)
-Tue, Sep 26 | Centrality and power in social exchange | [slides](slides/w5_1_power_and_centrality_in_exchange.pdf)
-Thu, Sep 28 | Detecting communities | [slides](slides/w5_2_communities.pdf)
-Tue, Oct 3 | Structural equivalence | [slides](slides/w6_1_structural_equivalence.pdf) 
-Thu, Oct 5 | Connections through affiliation | [slides](slides/w6_2_affiliations_and_overlapping_subgroups.pdf)
-Tue, Oct 10 | Exemplary studies | [slides](slides/w7_1_exemplary_studies.pdf)
-Thu, Oct 12 | Midterm exam | 
-~~Tue, Oct 17~~ | ~~Fall break, no class~~ |
-~~Thu, Oct 19~~ | ~~Fall break, no class~~ |
-Tue, Oct 24 | Scale-free networks | [slides](slides/w8_1_scale_free_networks.pdf)
-Thu, Oct 26 | Network inequality | [slides](slides/w8_2_network_inequality.pdf)
-Tue, Oct 31 | Small world | [slides](slides/w9_1_small_world_networks.pdf)
-Thu, Nov 2 | Bridging social capital | [slides](slides/w9_2_bridging_social_capital.pdf)
-~~Tue, Nov 7~~ | ~~Democracy Day, no class~~ |
-Thu, Nov 9 | Bonding social capital | [slides](slides/w10_2_bonding_social_capital.pdf)
-Tue, Nov 14 | Network analysis of Open Source Software | [slides](slides/w11_1_open_source.pdf)
-Thu, Nov 16 | Visualizing network data | [slides](slides/w11_2_network_visualization.pdf)
-Tue, Nov 21 | Hands-on network visualization workshop | no slides
-~~Thu, Nov 23~~ | ~~Thanksgiving, no class~~ |
-Tue, Nov 28 | Ethical issues | [slides](slides/w13_1_ethics_in_social_network_research.pdf)
-Thu, Nov 30 | Guest lecture: Clio Andris | [slides](slides/w13_2_gis_networks.pdf)
-Tue, Dec 5 | Diffusion and contagion | [slides](slides/w14_1_Diffusion_Contagion.pdf)
-Thu, Dec 7 | Student project presentations |
+Tue, Aug 27 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
+Thu, Aug 29 | Intro to graph theory | [slides]
+Tue, Sep 3 | Random networks | [slides]
+Thu, Sep 5 | Edges vs social ties | [slides]
+Tue, Sep 10 | Triads and structural balance | [slides]
+Thu, Sep 12 | From social processes to graphs | [slides]
+Tue, Sep 17 | Homophily and degree correlation (part 1) | [slides]
+Thu, Sep 19 | Homophily and degree correlation (part 2) | [slides]
+Tue, Sep 24 | Power and centrality in social networks | [slides]
+Thu, Sep 26 | Power and centrality in social exchange | [slides]
+Tue, Oct 1 | Detecting communities | [slides]
+Thu, Oct 3 | Structural equivalence | [slides]
+Tue, Oct 8 | Affiliations and overlapping subgroups | [slides]
+Thu, Oct 19 | Midterm exam | 
+~~Tue, Oct 15~~ | ~~Fall break, no class~~ |
+~~Thu, Oct 17~~ | ~~Fall break, no class~~ |
+Tue, Oct 22 | Visualizing network data | [slides]
+Thu, Oct 24 | Exemplary studies | [slides]
+Tue, Oct 29 | Scale-free networks | [slides]
+Thu, Oct 31 | Network inequality | [slides]
+~~Tue, Nov 5~~ | ~~Democracy Day, no class~~ |
+Thu, Nov 7 | Small-world networks | [slides]
+Tue, Nov 12 | Social Capital (part 1) | [slides]
+Thu, Nov 14 | Social Capital (part 2) | [slides]
+Tue, Nov 19 | Diffusion and contagion | [slides]
+Thu, Nov 21 | Ethical issues | [slides]
+Tue, Nov 26 | Network analysis of open-source software | [slides]
+~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
+Tue, Dec 3 | Guest lecture | [slides]
+Thu, Dec 5 | Guest lecture | [slides]
+

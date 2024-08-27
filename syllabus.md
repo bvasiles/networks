@@ -1,10 +1,10 @@
-<!-- # Network Analysis: The Hidden Structures behind the Webs We Weave [17-213 / 17-668] -->
+<!-- # Network Analysis: The Hidden Structures behind the Webs We Weave [17-338 / 17-668] -->
 
 ## Course Syllabus and Policies
 
 ### Prerequisites
 
-Working knowledge of linear algebra and statistics is preferrable. Given the diverse academic backgrounds, interests, and technical knowledge of the students, no specific technical background is required, but students are strongly expected to be self-motivated in understanding how the mathematic and quantitative operationalizations capture the social scientific insights behind them and in diving into learning network analytic software/libraries.
+Working knowledge of linear algebra and statistics is preferable. Given the diverse academic backgrounds, interests, and technical knowledge of the students, no specific technical background is required, but students are strongly expected to be self-motivated in understanding how the mathematic and quantitative operationalizations capture the social scientific insights behind them and in diving into learning network analytic software/libraries.
 
 ### Course Structure
 
@@ -13,7 +13,7 @@ Throughout this course, students will work toward a final team project that (a) 
 - **Lectures**. Lectures, delivered by the instructors, will cover the concepts, network analysis methods, and their application. Part of the lecture will also be used in relation to the assignments, for Q&A, discussions of the assigned readings, etc.
 - **Homework assignments**. Students will write brief weekly memos to summarize the main ideas of the readings. In addition, there will be short weekly data and analytics assignments designed to build familiarity with the software and analysis techniques discussed in the lectures. 
 - **Midterm exam** (open book).
-- **Final team project**. In teams, students will apply all of the learning throughout the semester as part of a research project studying an interesting problem or a technological artifact in a field / domain that the team members collectively choose. By the first half of the semester, teams will submit short research proposals outlining the study domain, research question / problem, data and analysis plan, and expected results. Finally, teams will submit a written report and present their results in class in the last week of the course. There will be no final exam.
+- **Final team project**. In teams, students will apply all the learning throughout the semester as part of a research project studying an interesting problem or a technological artifact in a field / domain that the team members collectively choose. By the first half of the semester, teams will submit short research proposals outlining the study domain, research question / problem, data and analysis plan, and expected results. Finally, teams will submit a written report and present their results in class in the last week of the course. There will be no final exam.
 
 ### Evaluation
 Evaluation will be based on the following distribution:
