@@ -44,7 +44,7 @@ Below is a preliminary schedule for Fall 2024. The schedule is subject to change
 | :------------- 	|:--------|:-------- |
 Tue, Aug 27 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
 Thu, Aug 29 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf)
-Tue, Sep 3 | Random networks | [slides]
+Tue, Sep 3 | Random networks | [slides](slides/w2_1_random_networks.pdf)
 Thu, Sep 5 | Edges vs social ties | [slides]
 Tue, Sep 10 | Triads and structural balance | [slides]
 Thu, Sep 12 | From social processes to graphs | [slides]
