@@ -41,7 +41,7 @@ written project reports, and in-class presentations. -->
 Below is a preliminary schedule for Fall 2024. The schedule is subject to change and will be updated as the semester progresses. For previous schedules, see [Fall 2023](fall2023/).
 
 | Date        		| Topic 	| Notes | Song of the Day
-| :------------- 	|:--------|:-------- |
+| :------------- 	|:--------|:-------- |:--------|
 Tue, Aug 27 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
 Thu, Aug 29 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) |
 Tue, Sep 3 | Random networks | [slides](slides/w2_1_random_networks.pdf) | 
@@ -52,8 +52,8 @@ Tue, Sep 17 | Homophily and degree correlation (part 1) | [slides](slides/w4_1_h
 Thu, Sep 19 | Homophily and degree correlation (part 2) | [slides](slides/w4_2_homophily_and_degree_correlation_pt2.pdf) | [You Belong With Me (Taylor Swift)](https://www.youtube.com/watch?v=vwp8Ur6tO-8)
 Tue, Sep 24 | Power and centrality in social networks | [slides]
 Thu, Sep 26 | Power and centrality in social exchange | [slides]
-Tue, Oct 1 | Detecting communities | [slides]
-Thu, Oct 3 | Structural equivalence | [slides]
+Tue, Oct 1 | Detecting communities | [slides] | 
+Thu, Oct 3 | Structural equivalence | [slides] | 
 Tue, Oct 8 | Affiliations and overlapping subgroups | [slides]
 Thu, Oct 19 | Midterm exam | 
 ~~Tue, Oct 15~~ | ~~Fall break, no class~~ |
