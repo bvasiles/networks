@@ -48,8 +48,8 @@ Tue, Sep 3 | Random networks | [slides](slides/w2_1_random_networks.pdf) |
 Thu, Sep 5 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf) | 
 Tue, Sep 10 | Triads and structural balance | [slides](slides/w3_1_triads_and_structural_balance.pdf) | 
 Thu, Sep 12 | From social processes to graphs | [slides](slides/w3_2_graph_theoretic_signatures_of_social_processes.pdf) | 
-Tue, Sep 17 | Homophily and degree correlation (part 1) | [slides](slides/w4_1_homophily_and_degree_correlation.pdf) | [Birds of a Feather (Billie Eilish)](https://www.youtube.com/watch?v=d5gf9dXbPi0)
-Thu, Sep 19 | Homophily and degree correlation (part 2) | [slides](slides/w4_2_homophily_and_degree_correlation_pt2.pdf) | [You Belong With Me (Taylor Swift)](https://www.youtube.com/watch?v=vwp8Ur6tO-8)
+Tue, Sep 17 | Homophily and degree correlation (part 1) | [slides](slides/w4_1_homophily_and_degree_correlation.pdf) | [Birds of a Feather](https://www.youtube.com/watch?v=d5gf9dXbPi0) (Billie Eilish)
+Thu, Sep 19 | Homophily and degree correlation (part 2) | [slides](slides/w4_2_homophily_and_degree_correlation_pt2.pdf) | [You Belong With Me](https://www.youtube.com/watch?v=vwp8Ur6tO-8) (Taylor's Version)
 Tue, Sep 24 | Power and centrality in social networks | [slides]
 Thu, Sep 26 | Power and centrality in social exchange | [slides]
 Tue, Oct 1 | Detecting communities | [slides] | 
