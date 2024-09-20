@@ -3,14 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Add your custom width adjustments */
-.container {
-    width: 100% important!; 
-    max-width: 1600px important!;
-    margin: 0 auto important!; 
-    padding: 0 10px important!;
-}
-
 .image-caption {
     text-align: center;
     font-size: .8rem;
