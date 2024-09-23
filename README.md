@@ -51,7 +51,7 @@ Thu, Sep 12 | From social processes to graphs | [slides](slides/w3_2_graph_theor
 Tue, Sep 17 | Homophily and degree correlation (part 1) | [slides](slides/w4_1_homophily_and_degree_correlation.pdf) | [Birds of a Feather](https://www.youtube.com/watch?v=d5gf9dXbPi0) (Billie Eilish)
 Thu, Sep 19 | Homophily and degree correlation (part 2) | [slides](slides/w4_2_homophily_and_degree_correlation_pt2.pdf) | [You Belong With Me](https://www.youtube.com/watch?v=vwp8Ur6tO-8) (Taylor's Version)
 Tue, Sep 24 | Power and centrality in social networks | [slides] | [Everybody Wants to Rule the World](https://www.youtube.com/watch?v=aGCdLKXNF3w) (Tears for Fears)
-Thu, Sep 26 | Power and centrality in social exchange | [slides]
+Thu, Sep 26 | Power and centrality in social exchange | [slides] | [No Scrubs](https://www.youtube.com/watch?v=18SwG-kep7s) (TLC)
 Tue, Oct 1 | Detecting communities | [slides] | 
 Thu, Oct 3 | Structural equivalence | [slides] | 
 Tue, Oct 8 | Affiliations and overlapping subgroups | [slides]
