@@ -55,7 +55,7 @@ Thu, Sep 26 | Power and centrality in social exchange | [slides](slides/w5_2_pow
 Tue, Oct 1 | Detecting communities | [slides] | 
 Thu, Oct 3 | Structural equivalence | [slides] | 
 Tue, Oct 8 | Affiliations and overlapping subgroups | [slides]
-Thu, Oct 19 | Midterm exam | 
+Thu, Oct 10 | Midterm exam | 
 ~~Tue, Oct 15~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 17~~ | ~~Fall break, no class~~ |
 Tue, Oct 22 | Visualizing network data | [slides]
