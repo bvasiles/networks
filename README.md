@@ -54,7 +54,7 @@ Tue, Sep 24 | Power and centrality in social networks | [slides](slides/w5_1_pow
 Thu, Sep 26 | Power and centrality in social exchange | [slides](slides/w5_2_power_and_centrality_in_exchange.pdf) | [No Scrubs](https://www.youtube.com/watch?v=18SwG-kep7s) (TLC)
 Tue, Oct 1 | Detecting communities | [slides](slides/w6_1_communities.pdf) | [We Are Family](https://www.youtube.com/watch?v=uyGY2NfYpeE) (Sister Sledge)
 Thu, Oct 3 | Structural equivalence | [slides](slides/w6_2_structural_equivalence.pdf) | [Where Do You Belong?](https://www.youtube.com/watch?v=QrHBTdAffmk) (Mean Girls the Musical)
-Tue, Oct 8 | Affiliations and overlapping subgroups | [slides]
+Tue, Oct 8 | Affiliations and overlapping subgroups | [slides] | [With a Little Help From My Friends](https://www.youtube.com/watch?v=0C58ttB2-Qg) (The Beatles)
 Thu, Oct 10 | Midterm exam | 
 ~~Tue, Oct 15~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 17~~ | ~~Fall break, no class~~ |
