@@ -58,8 +58,8 @@ Tue, Oct 8 | Affiliations and overlapping subgroups | [slides](slides/w7_1_affil
 Thu, Oct 10 | Midterm exam | 
 ~~Tue, Oct 15~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 17~~ | ~~Fall break, no class~~ |
-Tue, Oct 22 | Visualizing network data | [slides]
-Thu, Oct 24 | Exemplary studies | [slides]
+Tue, Oct 22 | Network Analysis of Open Source Software | [slides](slides/w9_1_network_analysis_of_open_source_software.pdf) |
+Thu, Oct 24 | Visualizing network data | [slides]
 Tue, Oct 29 | Scale-free networks | [slides]
 Thu, Oct 31 | Network inequality | [slides]
 ~~Tue, Nov 5~~ | ~~Democracy Day, no class~~ |
