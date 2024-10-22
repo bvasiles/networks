@@ -68,8 +68,8 @@ Tue, Nov 12 | Social Capital (part 1) | [slides]
 Thu, Nov 14 | Social Capital (part 2) | [slides]
 Tue, Nov 19 | Diffusion and contagion | [slides]
 Thu, Nov 21 | Ethical issues | [slides]
-Tue, Nov 26 | Network analysis of open-source software | [slides]
+Tue, Nov 26 | Exemplary studies | [slides]
 ~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
-Tue, Dec 3 | Guest lecture | [slides]
-Thu, Dec 5 | Guest lecture | [slides]
+Tue, Dec 3 | Guest lecture: Kathleen Carley |
+Thu, Dec 5 | Final Project Presentations |
 
