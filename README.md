@@ -66,10 +66,10 @@ Thu, Oct 31 | Network inequality | [slides]  | The Man (Taylor Swift)
 Thu, Nov 7 | Small-world networks | [slides] | The Last Great American Dynasty
 Tue, Nov 12 | Social Capital (part 1) | [slides] | Invisible String (Taylor Swift)
 Thu, Nov 14 | Social Capital (part 2) | [slides] | Bad Blood (Taylor Swift)
-Tue, Nov 19 | Diffusion and contagion | [slides] | Shake It Off
+Tue, Nov 19 | Diffusion and contagion | [slides] | Shake It Off (Taylor Swift)
 Thu, Nov 21 | Ethical issues | [slides] | Royals (Lorde)
 Tue, Nov 26 | Exemplary studies | [slides]
 ~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
 Tue, Dec 3 | Guest lecture: Kathleen Carley |
-Thu, Dec 5 | Final Project Presentations | We're All in This Together (High School Musical)
+Thu, Dec 5 | Final Project Presentations | | We're All in This Together (High School Musical)
 
