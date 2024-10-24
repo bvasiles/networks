@@ -46,10 +46,10 @@ Tue, Aug 27 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [vi
 Thu, Aug 29 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) |
 Tue, Sep 3 | Random networks | [slides](slides/w2_1_random_networks.pdf) | 
 Thu, Sep 5 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf) | 
-Tue, Sep 10 | Triads and structural balance | [slides](slides/w3_1_triads_and_structural_balance.pdf) | 
-Thu, Sep 12 | From social processes to graphs | [slides](slides/w3_2_graph_theoretic_signatures_of_social_processes.pdf) | 
+Tue, Sep 10 | Triads and structural balance | [slides](slides/w3_1_triads_and_structural_balance.pdf) | You Belong With Me (Taylor Swift)
+Thu, Sep 12 | From social processes to graphs | [slides](slides/w3_2_graph_theoretic_signatures_of_social_processes.pdf) | We Are Never Ever Getting Back Together (Taylor Swift)
 Tue, Sep 17 | Homophily and degree correlation (part 1) | [slides](slides/w4_1_homophily_and_degree_correlation.pdf) | [Birds of a Feather](https://www.youtube.com/watch?v=d5gf9dXbPi0) (Billie Eilish)
-Thu, Sep 19 | Homophily and degree correlation (part 2) | [slides](slides/w4_2_homophily_and_degree_correlation_pt2.pdf) | [You Belong With Me](https://www.youtube.com/watch?v=vwp8Ur6tO-8) (Taylor's Version)
+Thu, Sep 19 | Homophily and degree correlation (part 2) | [slides](slides/w4_2_homophily_and_degree_correlation_pt2.pdf) | Cowbody Like Me (Taylor Swift)
 Tue, Sep 24 | Power and centrality in social networks | [slides](slides/w5_1_power_and_centrality_in_social_networks.pdf) | [Everybody Wants to Rule the World](https://www.youtube.com/watch?v=Qs-8xYwYJAQ) (Tears for Fears)
 Thu, Sep 26 | Power and centrality in social exchange | [slides](slides/w5_2_power_and_centrality_in_exchange.pdf) | [No Scrubs](https://www.youtube.com/watch?v=18SwG-kep7s) (TLC)
 Tue, Oct 1 | Detecting communities | [slides](slides/w6_1_communities.pdf) | [We Are Family](https://www.youtube.com/watch?v=uyGY2NfYpeE) (Sister Sledge)
@@ -60,16 +60,16 @@ Thu, Oct 10 | Midterm exam |
 ~~Thu, Oct 17~~ | ~~Fall break, no class~~ |
 Tue, Oct 22 | Network Analysis of Open Source Software | [slides](slides/w9_1_network_analysis_of_open_source_software.pdf) |
 Thu, Oct 24 | Visualizing network data | [slides](slides/w9_2_network_visualization.pdf) |
-Tue, Oct 29 | Scale-free networks | [slides]
-Thu, Oct 31 | Network inequality | [slides]
+Tue, Oct 29 | Scale-free networks | [slides] | You Need to Calm Down (Taylor Swift)
+Thu, Oct 31 | Network inequality | [slides]  | The Man (Taylor Swift)
 ~~Tue, Nov 5~~ | ~~Democracy Day, no class~~ |
-Thu, Nov 7 | Small-world networks | [slides]
-Tue, Nov 12 | Social Capital (part 1) | [slides]
-Thu, Nov 14 | Social Capital (part 2) | [slides]
-Tue, Nov 19 | Diffusion and contagion | [slides]
-Thu, Nov 21 | Ethical issues | [slides]
+Thu, Nov 7 | Small-world networks | [slides] | The Last Great American Dynasty
+Tue, Nov 12 | Social Capital (part 1) | [slides] | Invisible String (Taylor Swift)
+Thu, Nov 14 | Social Capital (part 2) | [slides] | Bad Blood (Taylor Swift)
+Tue, Nov 19 | Diffusion and contagion | [slides] | Shake It Off
+Thu, Nov 21 | Ethical issues | [slides] | Royals (Lorde)
 Tue, Nov 26 | Exemplary studies | [slides]
 ~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
 Tue, Dec 3 | Guest lecture: Kathleen Carley |
-Thu, Dec 5 | Final Project Presentations |
+Thu, Dec 5 | Final Project Presentations | We're All in This Together (High School Musical)
 
