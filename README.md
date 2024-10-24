@@ -43,7 +43,7 @@ Below is a preliminary schedule for Fall 2024. The schedule is subject to change
 | Date        		| Topic 	| Notes | Song of the Day
 | :------------- 	|:--------|:-------- |:--------|
 Tue, Aug 27 | Introduction | [slides](slides/w1_1_introduction.pdf) <!-- • [video]() -->
-Thu, Aug 29 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) |
+Thu, Aug 29 | Intro to graph theory | [slides](slides/w1_2_graph_theory.pdf) | Connected (Stereo MCs)
 Tue, Sep 3 | Random networks | [slides](slides/w2_1_random_networks.pdf) | 
 Thu, Sep 5 | Edges vs social ties | [slides](slides/w2_2_edge_vs_social_ties.pdf) | In My Life (The Beatles)
 Tue, Sep 10 | Triads and structural balance | [slides](slides/w3_1_triads_and_structural_balance.pdf) | You Belong With Me (Taylor Swift)
