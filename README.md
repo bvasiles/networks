@@ -59,7 +59,7 @@ Thu, Oct 10 | Midterm exam |
 ~~Tue, Oct 15~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 17~~ | ~~Fall break, no class~~ |
 Tue, Oct 22 | Network Analysis of Open Source Software | [slides](slides/w9_1_network_analysis_of_open_source_software.pdf) |
-Thu, Oct 24 | Visualizing network data | [slides]
+Thu, Oct 24 | Visualizing network data | [slides](slides/w9_2_network_visualization.pdf) |
 Tue, Oct 29 | Scale-free networks | [slides]
 Thu, Oct 31 | Network inequality | [slides]
 ~~Tue, Nov 5~~ | ~~Democracy Day, no class~~ |
