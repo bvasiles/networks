@@ -60,7 +60,7 @@ Thu, Oct 10 | Midterm exam |
 ~~Thu, Oct 17~~ | ~~Fall break, no class~~ |
 Tue, Oct 22 | Network Analysis of Open Source Software | [slides](slides/w9_1_network_analysis_of_open_source_software.pdf) |
 Thu, Oct 24 | Visualizing network data | [slides](slides/w9_2_network_visualization.pdf) |
-Tue, Oct 29 | Scale-free networks | [slides] | You Need to Calm Down (Taylor Swift)
+Tue, Oct 29 | Scale-free networks | [slides] | All Star (Smashmouth)
 Thu, Oct 31 | Network inequality | [slides]  | The Man (Taylor Swift)
 ~~Tue, Nov 5~~ | ~~Democracy Day, no class~~ |
 Thu, Nov 7 | Small-world networks | [slides] | The Last Great American Dynasty
