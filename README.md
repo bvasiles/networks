@@ -61,7 +61,7 @@ Thu, Oct 10 | Midterm exam |
 Tue, Oct 22 | Network Analysis of Open Source Software | [slides](slides/w9_1_network_analysis_of_open_source_software.pdf) |
 Thu, Oct 24 | Visualizing network data | [slides](slides/w9_2_network_visualization.pdf) |
 Tue, Oct 29 | Scale-free networks | [slides](slides/w10_1_scale_free_networks.pdf) | All Star (Smashmouth)
-Thu, Oct 31 | Network inequality | [slides]  | The Man (Taylor Swift)
+Thu, Oct 31 | Network inequality | [slides]  | Only the Young (Taylor Swift)
 ~~Tue, Nov 5~~ | ~~Democracy Day, no class~~ |
 Thu, Nov 7 | Small-world networks | [slides] | The Last Great American Dynasty
 Tue, Nov 12 | Social Capital (part 1) | [slides] | Invisible String (Taylor Swift)
