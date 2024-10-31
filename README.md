@@ -64,7 +64,7 @@ Tue, Oct 29 | Scale-free networks | [slides](slides/w10_1_scale_free_networks.pd
 Thu, Oct 31 | Network inequality | [slides](slides/w10_2_network_inequality.pdf)  | [God Bless the Child](https://www.youtube.com/watch?v=mp349H8G0XQ) (Billie Holiday)
 ~~Tue, Nov 5~~ | ~~Democracy Day, no class~~ |
 Thu, Nov 7 | Small-world networks | [slides] | It's a Small World (Disney)
-Tue, Nov 12 | Social Capital (part 1) | [slides] | Invisible String (Taylor Swift)
+Tue, Nov 12 | Social Capital (part 1) | [slides] | I Heard It Through the Grapevine (Marvin Gaye)
 Thu, Nov 14 | Social Capital (part 2) | [slides] | Bad Blood (Taylor Swift)
 Tue, Nov 19 | Diffusion and contagion | [slides] | Shake It Off (Taylor Swift)
 Thu, Nov 21 | Ethical issues | [slides] | Royals (Lorde)
