@@ -66,7 +66,7 @@ Thu, Oct 31 | Network inequality | [slides](slides/w10_2_network_inequality.pdf)
 Thu, Nov 7 | Small-world networks | [slides] | It's a Small World (Disney)
 Tue, Nov 12 | Social Capital (part 1) | [slides] | I Heard It Through the Grapevine (Marvin Gaye)
 Thu, Nov 14 | Social Capital (part 2) | [slides] | Bad Blood (Taylor Swift)
-Tue, Nov 19 | Diffusion and contagion | [slides] | Shake It Off (Taylor Swift)
+Tue, Nov 19 | Diffusion and contagion | [slides] | Word of Mouth (Mike + The Mechanics)
 Thu, Nov 21 | Ethical issues | [slides] | Royals (Lorde)
 Tue, Nov 26 | Exemplary studies | [slides] | The Man (Taylor Swift)
 ~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
