@@ -63,7 +63,7 @@ Thu, Oct 24 | Visualizing network data | [slides](slides/w9_2_network_visualizat
 Tue, Oct 29 | Scale-free networks | [slides](slides/w10_1_scale_free_networks.pdf) | All Star (Smashmouth)
 Thu, Oct 31 | Network inequality | [slides](slides/w10_2_network_inequality.pdf)  | [God Bless the Child](https://www.youtube.com/watch?v=mp349H8G0XQ) (Billie Holiday)
 ~~Tue, Nov 5~~ | ~~Democracy Day, no class~~ |
-Thu, Nov 7 | Small-world networks | [slides] | It's a Small World (Disney)
+Thu, Nov 7 | Small-world networks | [slides](slides/w11_2_small_world_networks.pdf) | It's a Small World (Disney)
 Tue, Nov 12 | Social Capital (part 1) | [slides] | I Heard It Through the Grapevine (Marvin Gaye)
 Thu, Nov 14 | Social Capital (part 2) | [slides] | Bad Blood (Taylor Swift)
 Tue, Nov 19 | Diffusion and contagion | [slides] | Word of Mouth (Mike + The Mechanics)
