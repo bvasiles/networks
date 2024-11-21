@@ -67,7 +67,7 @@ Thu, Nov 7 | Small-world networks | [slides](slides/w11_2_small_world_networks.p
 Tue, Nov 12 | Social Capital (part 1) | [slides](slides/w12_1_bridging_social_capital.pdf) | I Heard It Through the Grapevine (Marvin Gaye)
 Thu, Nov 14 | Social Capital (part 2) | [slides](slides/w12_2_bonding_social_capital.pdf) | Bad Blood (Taylor Swift)
 Tue, Nov 19 | Diffusion and contagion | [slides](slides/w13_1_Diffusion_Contagion.pdf) | Word of Mouth (Mike + The Mechanics)
-Thu, Nov 21 | Ethical issues | [slides] | Royals (Lorde)
+Thu, Nov 21 | Ethical issues | [slides] | [slides](slides/w13_2_ethics_in_social_network_research.pdf) | Royals (Lorde)
 Tue, Nov 26 | Exemplary studies | [slides] | The Man (Taylor Swift)
 ~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
 Tue, Dec 3 | Guest lecture: Kathleen Carley |
