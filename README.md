@@ -68,7 +68,7 @@ Tue, Nov 12 | Social Capital (part 1) | [slides](slides/w12_1_bridging_social_ca
 Thu, Nov 14 | Social Capital (part 2) | [slides](slides/w12_2_bonding_social_capital.pdf) | Bad Blood (Taylor Swift)
 Tue, Nov 19 | Diffusion and contagion | [slides](slides/w13_1_Diffusion_Contagion.pdf) | Word of Mouth (Mike + The Mechanics)
 Thu, Nov 21 | Ethical issues | [slides](slides/w13_2_ethics_in_social_network_research.pdf) | Royals (Lorde)
-Tue, Nov 26 | Exemplary studies | [slides] | The Man (Taylor Swift)
+Tue, Nov 26 | Exemplary studies | [slides](slides/w14_1_exemplary_studies.pdf) | The Man (Taylor Swift)
 ~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
 Tue, Dec 3 | Guest lecture: Kathleen Carley |
 Thu, Dec 5 | Final Project Presentations | | We're All in This Together (High School Musical)
