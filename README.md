@@ -71,5 +71,5 @@ Thu, Nov 21 | Ethical issues | [slides](slides/w13_2_ethics_in_social_network_re
 Tue, Nov 26 | Exemplary studies | [slides](slides/w14_1_exemplary_studies.pdf) | The Man (Taylor Swift)
 ~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
 Tue, Dec 3 | Guest lecture: Kathleen Carley | [slides](slides/carley_lecture.pdf) | 
-Thu, Dec 5 | Final Project Presentations | | We're All in This Together (High School Musical)
+Thu, Dec 5 | Final Project Presentations | | [We're All in This Together](https://www.youtube.com/watch?v=dEOVNB0hXjo) (High School Musical)
 
