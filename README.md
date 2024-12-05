@@ -70,6 +70,6 @@ Tue, Nov 19 | Diffusion and contagion | [slides](slides/w13_1_Diffusion_Contagio
 Thu, Nov 21 | Ethical issues | [slides](slides/w13_2_ethics_in_social_network_research.pdf) | Royals (Lorde)
 Tue, Nov 26 | Exemplary studies | [slides](slides/w14_1_exemplary_studies.pdf) | The Man (Taylor Swift)
 ~~Thu, Nov 28~~ | ~~Thanksgiving, no class~~ |
-Tue, Dec 3 | Guest lecture: Kathleen Carley |
+Tue, Dec 3 | Guest lecture: Kathleen Carley | [slides](slides/carley_lecture24.pdf) | 
 Thu, Dec 5 | Final Project Presentations | | We're All in This Together (High School Musical)
 
